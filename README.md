@@ -30,6 +30,33 @@ Here are some ideas to get you started:
 - [Dart - Immutable Variables or Constants](https://dev.to/shahzaibnoordev/dart-immutable-variables-or-constants-312d)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
+<br/>
+
+<br>
+
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/ShahzaibSE/flutter-todo-app-shahzaib-noor.git">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibSE&repo=flutter-todo-app-shahzaib-noor&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/braydoncoyer/ng-limeade">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibSE&repo=shahzaib-noor-ecommerce-flutter-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/ShahzaibSE/flutter-calculator-shahzaib-noor.git">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibSE&repo=flutter-calculator-shahzaib-noor&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ShahzaibSE/COVID-19-Tracker-App.git">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibSE&repo=COVID-19-Tracker-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 
 <br/>
 <br/>
