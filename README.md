@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Shahzaib Noor Banner](./playstation-buttons-background.jpg)
+
+
 <!--
 **ShahzaibSE/ShahzaibSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
