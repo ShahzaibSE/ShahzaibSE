@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-## 📣 How about an Office quote before you go?
+## 📣 How about a Programming quote before you go?
 
 > "Sometimes it's better to leave something alone, to pause, and that's very true of programming."
 >
