@@ -95,8 +95,8 @@ Here are some ideas to get you started:
 
 ## 📣 How about an Office quote before you go?
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> "Sometimes it's better to leave something alone, to pause, and that's very true of programming."
 >
-> <p>- Shahzaib Noor</p>
+> <p>- Joyce Wheeler</p>
 
 
