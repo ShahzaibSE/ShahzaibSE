@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibSE&repo=flutter-todo-app-shahzaib-noor&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
+<a href="https://github.com/ShahzaibSE/news-app-prequisite-hackathon-app">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibSE&repo=shahzaib-noor-ecommerce-flutter-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
