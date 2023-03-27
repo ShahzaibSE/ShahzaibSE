@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Full Stack JavaScript, Python and Flutter Developer.
 - ⚡ Skills: **ReactJS, NextJS, Prisma, JavaScript, Typescript, Dart, NodeJS, Docker, Git, MongoDB, PostgreSQL, Sequalize, Mongoose, Node.js, Express.js, Angular, Flutter, Python**
 - 🌱 Learning more about and studying: **Artificial Intelligence**, **Blockchain** & **Web3**
-- 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬**
+- 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬, Comics 💥**
 - 👋🏻 Feel free to get in touch!
 
 <br/>
