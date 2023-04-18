@@ -14,8 +14,9 @@ Welcome to **ShahzaibSE/ShahzaibSE**'s repository.
 - 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬, Comics 💥**
 - 👋🏻 Feel free to get in touch!
 
+## Current Status:
 - 🔭 I’m currently developing a next.js version 13 app.
-- 🌱 I’m currently learning advanced concepts of Flutter.
+- 🌱 I’m currently learning advanced concepts of Flutter and developing an app.
 - 🕸️ I'm currently learning concepts of web3.
 
 <br/>
