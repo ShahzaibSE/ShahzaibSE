@@ -10,7 +10,7 @@ Welcome to **ShahzaibSE/ShahzaibSE**'s repository.
 
 - 👨‍💻 Full Stack JavaScript, Python and Flutter Developer.
 - ⚡ Skills: **ReactJS, NextJS, Prisma, JavaScript, Typescript, Dart, NodeJS, Docker, Git, MongoDB, PostgreSQL, Sequalize, Mongoose, Node.js, Express.js, Angular, Flutter, Python**
-- 🌱 Learning more about and studying: **Artificial Intelligence**, **Blockchain** & **Web3**
+- 🌱 Learning more about and studying: **Artificial Intelligence**, **LLM** & **RAG**
 - 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬, Comics 💥**
 - 👋🏻 Feel free to get in touch!
 
