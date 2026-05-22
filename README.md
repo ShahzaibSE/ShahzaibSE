@@ -157,15 +157,6 @@ AI-assisted anomaly detection and automated incident response.
 
 ---
 
-### 📊 GitHub Stats
-
-<a href="https://github.com/ShahzaibSE">
-  <img align="center" style="margin:0.5rem"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibSE&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
----
-
 ### 💬 Get in Touch
 
 I'm open to remote roles, contract engagements,
