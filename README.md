@@ -1,106 +1,198 @@
-
 ![Shahzaib Noor Banner](./playstation-buttons-background.jpg)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ShahzaibNoor1)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shahzaib-noor-0a1b71b4/)
-
-### Hi there 👋
-
-Welcome to **ShahzaibSE/ShahzaibSE**'s repository.
 
 
-- 👨‍💻 Full Stack JavaScript, Python and Flutter Developer.
-- ⚡ Skills: **ReactJS, NextJS, Prisma, JavaScript, Typescript, Dart, NodeJS, Docker, Git, MongoDB, PostgreSQL, Sequalize, Mongoose, Node.js, Express.js, Angular, Flutter, Python**
-- 🌱 Learning more about and studying: **Artificial Intelligence**, **LLM** & **RAG**
-- 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬, Comics 💥**
-- 👋🏻 Feel free to get in touch!
 
-## Current Status:
-- 🔭 I’m currently developing a next.js version 13 app.
-- 🌱 I’m currently learning advanced concepts of Flutter and developing an app.
-- 🕸️ I'm currently learning concepts of web3.
+[
 
-<br/>
-<br/>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)
 
-## 📝 Blog Posts
+](https://www.linkedin.com/in/shahzaib-noor-0a1b71b4/)
+[
 
-<br>
+![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Calculate Convolutional Parameters in Convolutional Neural Network?](https://medium.com/@shahzaibnoor40/the-convolution-parameters-calculation-b2394da8dd59)
-- [PlayStation 5 DualSense has arrived!](https://medium.com/@shahzaibnoor40/playstation-5-controller-has-arrived-771ca25640f1)
+](https://twitter.com/ShahzaibNoor1)
+[
+
+![Medium](https://img.shields.io/badge/Medium-Blog-informational?style=flat&logo=medium&logoColor=white&color=black)
+
+](https://medium.com/@shahzaibnoor40)
+
+---
+
+### Hi, I'm Shahzaib 👋
+
+**Senior AI Engineer** specializing in production LLM infrastructure,
+multi-agent orchestration, and agentic AI systems.
+
+I build systems that ship — not demos.
+
+9 years of engineering experience across FinTech, Healthcare,
+IoT, and SaaS. Based in Karachi, Pakistan.
+Available for remote and relocation opportunities globally.
+
+---
+
+### 🧠 What I Build
+
+- **Agentic AI Systems** — LangGraph, OpenAI Agents SDK,
+  Model Context Protocol (MCP), multi-agent orchestration,
+  autonomous reasoning loops, agent memory & planning
+
+- **Production RAG Pipelines** — Agentic RAG, FAISS, Pinecone,
+  hybrid retrieval, semantic search, document intelligence
+
+- **LLM Infrastructure** — Multi-provider architectures
+  (OpenAI, Anthropic, Google AI), fallback strategies,
+  cost optimization, structured outputs, LLM evaluation
+
+- **Backend & Distributed Systems** — Python, FastAPI, Node.js,
+  TypeScript, Kafka, Celery, async pipelines,
+  event-driven architecture
+
+- **Full-Stack Delivery** — React, Next.js, TypeScript,
+  WebSocket dashboards, real-time interfaces
+
+- **Cloud & DevOps** — AWS, GCP, Docker, Kubernetes,
+  Terraform, GitHub Actions, CI/CD, structured observability
+
+---
+
+### 🛠️ Core Stack
+
+
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+
+
+
+
+![FastAPI](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=4AB197)
+
+
+
+
+![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197)
+
+
+
+
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
+
+
+
+
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+
+
+
+
+![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=4AB197)
+
+
+
+
+![LangGraph](https://img.shields.io/badge/AI-LangGraph-informational?style=flat&logo=python&logoColor=white&color=6B4AB1)
+
+
+
+
+![LangChain](https://img.shields.io/badge/AI-LangChain-informational?style=flat&logo=python&logoColor=white&color=6B4AB1)
+
+
+
+
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=6B4AB1)
+
+
+
+
+![Anthropic](https://img.shields.io/badge/AI-Anthropic-informational?style=flat&logo=anthropic&logoColor=white&color=6B4AB1)
+
+
+
+
+![Kafka](https://img.shields.io/badge/Infra-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=4AB197)
+
+
+
+
+![Docker](https://img.shields.io/badge/Infra-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+
+
+
+
+![Kubernetes](https://img.shields.io/badge/Infra-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197)
+
+
+
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=4AB197)
+
+
+
+
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
+
+
+
+---
+
+### 🚀 Featured Projects
+
+#### 🏥 CareCopilot AI — Multi-Agent Healthcare Automation
+Production multi-agent platform replacing manual healthcare
+administrative workflows with autonomous AI-driven operations.
+Multi-step LLM reasoning, Agentic RAG over clinical records,
+MCP tool orchestration, and human-in-the-loop approval gates.
+**60–70% reduction in administrative workload.**
+`LangGraph` `OpenAI Agents SDK` `MCP` `FastAPI` `Kafka` `PostgreSQL`
+
+---
+
+#### 📄 DocuSummarizer Pro — Agentic Document Intelligence
+Production RAG system for legal, finance, and research teams.
+Agentic retrieval pipelines, multi-step reasoning, and
+citation-grounded generation over large document corpora.
+**5x improvement in document analysis throughput.**
+`LangGraph` `LangChain` `FAISS` `Pinecone` `FastAPI` `Celery`
+
+---
+
+#### 📡 Unified AV & IoT Monitoring — Real-Time Intelligence
+High-throughput event intelligence platform processing
+thousands of concurrent IoT events per minute with
+AI-assisted anomaly detection and automated incident response.
+**40% improvement in operational efficiency.**
+`Kafka` `Python` `Redis` `Elasticsearch` `WebSockets` `React`
+
+---
+
+### 📝 Technical Writing
+
+- [How to Calculate Convolutional Parameters in CNNs](https://medium.com/@shahzaibnoor40/the-convolution-parameters-calculation-b2394da8dd59)
 - [What is Tree Shaking in Angular?](https://medium.com/@shahzaibnoor40/this-is-a-new-and-exciting-day-as-angular-enthusiast-because-angular-9-has-been-released-with-ivy-6abb1e3cbfa0)
-- [What is Cascade Notation in Dart?](https://dev.to/shahzaibnoordev/dart-cascade-notation-3hhg)
-- [Dart - Immutable Variables or Constants](https://dev.to/shahzaibnoordev/dart-immutable-variables-or-constants-312d)
-<!-- BLOG-POST-LIST:END -->
 
-<br/>
-<br/>
+---
 
-<br>
+### 📊 GitHub Stats
 
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/ShahzaibSE/flutter-todo-app-shahzaib-noor.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibSE&repo=flutter-todo-app-shahzaib-noor&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/ShahzaibSE">
+  <img align="center" style="margin:0.5rem"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibSE&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/ShahzaibSE/news-app-prequisite-hackathon-app.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibSE&repo=news-app-prequisite-hackathon-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+---
 
-<br>
+### 💬 Get in Touch
 
-<a href="https://github.com/ShahzaibSE/flutter-calculator-shahzaib-noor.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibSE&repo=flutter-calculator-shahzaib-noor&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+I'm open to remote roles, contract engagements,
+and relocation opportunities globally.
 
-<a href="https://github.com/ShahzaibSE/COVID-19-Tracker-App.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShahzaibSE&repo=COVID-19-Tracker-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+📧 shahzaibnoor40@gmail.com
+🔗 [linkedin.com/in/shahzaib-noor-0a1b71b4](https://www.linkedin.com/in/shahzaib-noor-0a1b71b4/)
 
+---
 
-<br/>
-<br/>
-
-## &#x1f4c8; GitHub Stats
-
-<br/>
-<br/>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibSE&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br/>
-<br/>
-<br/>
-
-## 💼 Skills
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=ExpressJS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
-
-<br/>
-<br/>
-
-## 📣 How about a Programming quote before you go?
-
-> "Sometimes it's better to leave something alone, to pause, and that's very true of programming."
->
-> <p>- Joyce Wheeler</p>
-
-
+> *"The best code is the code that ships, runs reliably,
+> and solves a real problem."*
