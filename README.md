@@ -163,6 +163,7 @@ I'm open to remote roles, contract engagements,
 and relocation opportunities globally.
 
 📧 shahzaibnoor40@gmail.com
+
 🔗 [linkedin.com/in/shahzaib-noor-0a1b71b4](https://www.linkedin.com/in/shahzaib-noor-0a1b71b4/)
 
 ---
