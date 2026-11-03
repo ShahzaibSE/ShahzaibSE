@@ -4,39 +4,53 @@
 
 ### Hi, I'm Shahzaib 👋
 
-**Senior AI Engineer** specializing in production LLM infrastructure,
-multi-agent orchestration, and agentic AI systems.
+**Senior AI Engineer** working in **forward-deployed mode**: embedded
+with client teams to take agentic AI and RAG systems from discovery
+to production, and to keep them running.
 
-I build systems that ship — not demos.
+I build systems that ship, not demos.
 
-9 years of engineering experience across FinTech, Healthcare,
-IoT, and SaaS. Based in Karachi, Pakistan.
-Available for remote and relocation opportunities globally.
+10 years of software engineering, 5 in AI/ML (3 delivering production
+generative AI and agentic systems), across FinTech, Healthcare, IoT,
+and SaaS.
+
+---
+
+### 🤝 How I Work: Forward Deployed
+
+- Embedded with the client's team, working directly with the people who use the system
+- Discovery first: find the real workflow problem before choosing an architecture
+- One engineer owns it from first scoping call through production operation
+- Evaluation, tracing and access controls in place before each release
+- Decisions and trade-offs written down, so the client's team can run it after me
 
 ---
 
 ### 🧠 What I Build
 
 - **Agentic AI Systems** — LangGraph, OpenAI Agents SDK,
-  Model Context Protocol (MCP), multi-agent orchestration,
-  autonomous reasoning loops, agent memory & planning
+  Model Context Protocol (MCP) tool integrations,
+  multi-agent workflows
 
-- **Production RAG Pipelines** — Agentic RAG, FAISS, Pinecone,
-  hybrid retrieval, semantic search, document intelligence
+- **Production RAG Pipelines** — FAISS, Pinecone, pgvector,
+  hybrid retrieval, reranking, document processing
 
-- **LLM Infrastructure** — Multi-provider architectures
-  (OpenAI, Anthropic, Google AI), fallback strategies,
-  cost optimization, structured outputs, LLM evaluation
+- **LLM Engineering** — OpenAI, Anthropic, Azure OpenAI and Gemini
+  integrations, structured outputs, evaluation and tracing
+  (Langfuse, LangSmith)
 
-- **Backend & Distributed Systems** — Python, FastAPI, Node.js,
-  TypeScript, Kafka, Celery, async pipelines,
+- **AI-Assisted Development** — Claude Code, Codex and Cursor,
+  plan-first workflow, CLAUDE.md / AGENTS.md context files
+
+- **Backend & Distributed Systems** — Python, FastAPI, Django,
+  Node.js, TypeScript, Kafka, Redis, Celery, async pipelines,
   event-driven architecture
 
 - **Full-Stack Delivery** — React, Next.js, TypeScript,
   WebSocket dashboards, real-time interfaces
 
-- **Cloud & DevOps** — AWS, GCP, Docker, Kubernetes,
-  Terraform, GitHub Actions, CI/CD, structured observability
+- **Cloud & DevOps** — AWS, Azure, GCP, Docker, Kubernetes,
+  GitHub Actions, CI/CD, tracing and alerting
 
 ---
 
@@ -122,31 +136,44 @@ Available for remote and relocation opportunities globally.
 
 ### 🚀 Featured Projects
 
-#### 🏥 CareCopilot AI — Multi-Agent Healthcare Automation
-Production multi-agent platform replacing manual healthcare
-administrative workflows with autonomous AI-driven operations.
-Multi-step LLM reasoning, Agentic RAG over clinical records,
-MCP tool orchestration, and human-in-the-loop approval gates.
-**60–70% reduction in administrative workload.**
-`LangGraph` `OpenAI Agents SDK` `MCP` `FastAPI` `Kafka` `PostgreSQL`
+#### 🏥 CareCopilot AI — Multi-Agent Healthcare Platform
+Client-delivered production platform used by clinicians. I owned it
+from discovery through production operation. Agents interpret a request,
+plan, call tools through MCP, and validate results, with evaluation
+and tracing before each release.
+**Average case review time cut from 4 hours to 32 minutes.**
+`LangGraph` `OpenAI Agents SDK` `MCP` `Python` `Kafka` `PostgreSQL`
 
 ---
 
 #### 📄 DocuSummarizer Pro — Agentic Document Intelligence
-Production RAG system for legal, finance, and research teams.
-Agentic retrieval pipelines, multi-step reasoning, and
-citation-grounded generation over large document corpora.
-**5x improvement in document analysis throughput.**
-`LangGraph` `LangChain` `FAISS` `Pinecone` `FastAPI` `Celery`
+RAG pipelines for legal, finance, and research teams: hybrid
+retrieval, evaluation harnesses, and reusable delivery patterns.
+`LangGraph` `LangChain` `FAISS` `Pinecone` `Celery` `Redis`
 
 ---
 
 #### 📡 Unified AV & IoT Monitoring — Real-Time Intelligence
-High-throughput event intelligence platform processing
-thousands of concurrent IoT events per minute with
-AI-assisted anomaly detection and automated incident response.
-**40% improvement in operational efficiency.**
-`Kafka` `Python` `Redis` `Elasticsearch` `WebSockets` `React`
+Contract work (client confidential) on a flagship monitoring platform
+for more than two years: a real-time event pipeline processing
+thousands of IoT events per minute, with AI-assisted anomaly
+detection and LLM-powered diagnostics.
+`Kafka` `Python` `Node.js` `Redis` `Elasticsearch` `WebSockets` `Docker`
+
+---
+
+### 🔓 Open Source
+
+- [prod-rag-system](https://github.com/ShahzaibSE/prod-rag-system) —
+  backend-first RAG service: async ingestion with idempotency keys,
+  a Redis job queue with retries and leases, 21 test files.
+  Not deployed to production.
+- [ai-coding-golden-paths](https://github.com/ShahzaibSE/ai-coding-golden-paths) —
+  generator that renders engineering standards into Claude Code and
+  Codex configuration (v0.1, early).
+- [dashboard-payroll](https://github.com/ShahzaibSE/dashboard-payroll) —
+  PayrollOps, a React and TypeScript operations dashboard pilot on
+  synthetic data, with 419 tests.
 
 ---
 
@@ -159,8 +186,8 @@ AI-assisted anomaly detection and automated incident response.
 
 ### 💬 Get in Touch
 
-I'm open to remote roles, contract engagements,
-and relocation opportunities globally.
+I'm open to remote roles and contract engagements, and to
+relocation for the right role.
 
 📧 shahzaibnoor40@gmail.com
 
